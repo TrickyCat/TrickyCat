@@ -33,6 +33,8 @@
 
 ### Connect with me: <a href="https://blog.tricky.cat/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.tricky.cat/feed.xml" height="30" width="40" /></a>
 
+### [💌 Send a message 💌](https://forms.gle/Bfk131a5EZG4PAKj8)
+
 
 <h2 align="center">:bar_chart: GitHub Stats</h2>
 <p align="center">
