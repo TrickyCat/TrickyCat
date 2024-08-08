@@ -24,11 +24,11 @@
 
 ### 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tips &amp;amp; Tricks: Use Incognito Mode for the OS Default Browser](https://blog.tricky.cat/2024/08/07/windows-default-browser-open-links-in-incognito-mode.html)
 - [Let’s Use a Custom SSL Certificate for Tomato Router](https://blog.tricky.cat/2024/07/22/tomato-router-custom-ssl.html)
 - [Request Google Search Indexing for GitHub Pages + Jekyll](https://blog.tricky.cat/2024/01/18/request-google-search-indexing-for-github-pages-and-jekyll.html)
 - [Linux Foundation - Text Editing with Vim &lpar;SC100&rpar;](https://blog.tricky.cat/2023/12/19/text-editing-with-vim-sc100.html)
 - [Linux Foundation - Source Control Management with Git &lpar;SC102&rpar;](https://blog.tricky.cat/2023/11/26/source-control-management-with-git-sc102.html)
-- [Let’s Replace the Battery in ONYX BOOX MAX: Episode 2 - Attack of the Charger](https://blog.tricky.cat/2023/11/08/onyx-boox-max-battery-replacement-episode-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect with me: <a href="https://blog.tricky.cat/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.tricky.cat/feed.xml" height="30" width="40" /></a>
